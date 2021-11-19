@@ -6,7 +6,7 @@
 <br>
 <br>
 
-<p>Neste projeto pude deixar o sistema totalmente responsivo, e adicionar diversas animações e acrescentar o menu mobile (hamburguer), é uma experiência muito bacana pra mim, pois consegui colocar em prática muita coisa que aprendi no decorrer do curso.</p>
+<p>E simplesmente fantástico como podemos manipular datas com o constructor Date() do Javascript e ver se o estabelecimento está aberto entre tal horário me fez ver a tamanha importância que tem este constructor Date(), muito legal.</p>
 
 ## 🚀 Tecnologias usadas:
 ### HTML

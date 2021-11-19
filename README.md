@@ -2,7 +2,7 @@
   Projeto Origamid
 </h1>
 
-<img align="center" src="./assets/img/projetoOrigamid.gif">
+<img align="center" src="./assets/img/horario.gif">
 <br>
 <br>
 
